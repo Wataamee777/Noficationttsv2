@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification TTS</string>
+    <string name="service_label">Notification Reader Service</string>
+    <string name="show_system_apps">システムアプリを表示</string>
+    <string name="notification_access_required">通知アクセスが必要です。設定画面を開きますか？</string>
+    <string name="open_settings">設定を開く</string>
+    <string name="cancel">キャンセル</string>
+    <string name="enabled">有効</string>
+</resources>
